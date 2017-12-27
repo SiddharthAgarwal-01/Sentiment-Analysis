@@ -22,3 +22,7 @@ Classification Algorithms used here:
 - Logistic Regression
 - Naive Bayes Classification
 - Random Forest Classification
+
+Performance evaluation is done using:
+- Confusion Matrix which gives True Positives, True Negatives, False Positives and False Negatives.
+- Classification Report which gives Precision, Recall and F1-Score.
