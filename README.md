@@ -14,9 +14,9 @@ Dataset contains 99990 different tweets along with the Sentiment associated with
 
 Data Cleansing is done in order to remove unwanted characters/words present in the tweets.
 
-Data Processing is done by Stemming and Tokenisation of tweets and then creating the Bag of Words from the tokenised words.
+Data Processing is done by Stemming and Tokenisation of tweets and then creating the Bag of Words using the tokenised words.
 
-Dataset is splitted into Train and Test Datasets in order to apply Classification algorithms and to measure the performance of the Models.
+Dataset is splitted into Train and Test Datasets in order to apply Classification algorithms and to evaluate the performance of the Models.
 
 Classification Algorithms used here:
 - Logistic Regression
